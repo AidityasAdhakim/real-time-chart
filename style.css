@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.panel{
+    width: 400px;
+    height: 150px;
+    padding: 20px;
+    border: solid lightgreen 1px;
+    font-size: 14px;
+}
+
+#left{
+    width: 700px;
+}
+
+.container{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+}
